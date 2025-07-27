@@ -3,5 +3,5 @@ replicaCount: 1
 image:
   tag: "v1"
   
- service:
+service:
   port: 80
